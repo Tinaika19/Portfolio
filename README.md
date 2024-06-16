@@ -25,6 +25,7 @@ This is a quick glimpse of what the final output will look like.
 
 ![Website screenshot](assets/images/portfolio.JPG)
 ![Website screenshot](assets/images/projects.JPG)
+![Website screenshot](assets/images/contactMe.JPG)
 
 ## Link to the website
 https://tinaika19.github.io/Portfolio/
