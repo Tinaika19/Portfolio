@@ -24,6 +24,7 @@ This project aims to develop a codebase for my personal portfolio, showcasing va
 This is a quick glimpse of what the final output will look like.
 
 ![Website screenshot](assets/images/portfolio.JPG)
+![Website screenshot](assets/images/projects.JPG)
 
 ## Link to the website
 https://tinaika19.github.io/Portfolio/
